@@ -1,0 +1,30 @@
+{
+    "AS_Image_ba1477680da248d4a2cca88827181b88": {
+        "id": "AS_Image_ba1477680da248d4a2cca88827181b88",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmEvent",
+            "type": "forms",
+            "platform": "",
+            "KUID": "gace74885d254cfab2de45356a533303"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__b1425d9e9f234adeacb86422b9d69d67",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmEvent.flxShare.setVisibility(true);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

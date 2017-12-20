@@ -1,0 +1,15 @@
+{
+    "AS_NamedActions_d24aa93810734e2390b13b09dcd9dc5b": {
+        "id": "AS_NamedActions_d24aa93810734e2390b13b09dcd9dc5b",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmSukarelawan_shareTwitter",
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__if5eca7526774432a69bc54e0e5cee31",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "shareSukarelawan();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

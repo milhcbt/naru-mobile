@@ -1,0 +1,24 @@
+{
+    "AS_FlexScrollContainer_i60175d8a39d48aabc8c10a59e1a243f": {
+        "id": "AS_FlexScrollContainer_i60175d8a39d48aabc8c10a59e1a243f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "flxNewsEvent",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b10dbe6cc513409980c58ac12b52fba1"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

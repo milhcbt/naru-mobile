@@ -1,0 +1,17 @@
+{
+    "AS_FlexContainer_f561accdbcbd4969ba24b3cc7798580e": {
+        "id": "AS_FlexContainer_f561accdbcbd4969ba24b3cc7798580e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_ff37a2c31de3435da1e4bbf8cd17c236",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "changeTabCharity();",
+            "callbackType": null
+        }]
+    }
+}

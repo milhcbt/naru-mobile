@@ -1,0 +1,33 @@
+{
+    "AS_Browser_f82989ed20f34669b11438b478488a9d": {
+        "id": "AS_Browser_f82989ed20f34669b11438b478488a9d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "flxNewsEvent",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b10dbe6cc513409980c58ac12b52fba1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___g4ce753762624b2bb42135a622b8f3ec",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "setGestureSwipeStream",
+            "display": "setGestureSwipeStream",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

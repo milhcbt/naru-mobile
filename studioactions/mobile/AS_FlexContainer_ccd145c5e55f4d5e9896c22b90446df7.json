@@ -1,0 +1,17 @@
+{
+    "AS_FlexContainer_ccd145c5e55f4d5e9896c22b90446df7": {
+        "id": "AS_FlexContainer_ccd145c5e55f4d5e9896c22b90446df7",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_fde591ac2e744ce7b2520ace637c5982",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "shareGoogle(globIdNews);",
+            "callbackType": null
+        }]
+    }
+}

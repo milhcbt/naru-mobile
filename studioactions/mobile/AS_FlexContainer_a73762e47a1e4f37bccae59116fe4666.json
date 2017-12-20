@@ -1,0 +1,30 @@
+{
+    "AS_FlexContainer_a73762e47a1e4f37bccae59116fe4666": {
+        "id": "AS_FlexContainer_a73762e47a1e4f37bccae59116fe4666",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "flxNewsEvent",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b10dbe6cc513409980c58ac12b52fba1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__d17a07a197d540ab957cd1c5da61f140",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "swipeBrowser();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

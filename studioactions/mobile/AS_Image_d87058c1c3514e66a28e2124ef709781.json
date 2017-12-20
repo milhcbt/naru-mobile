@@ -1,0 +1,23 @@
+{
+    "AS_Image_d87058c1c3514e66a28e2124ef709781": {
+        "id": "AS_Image_d87058c1c3514e66a28e2124ef709781",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onTouchEnd_ed41be4690cf4c269952a55708c4ae1b",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "shareTwitter(globTitle);",
+            "callbackType": null
+        }]
+    }
+}

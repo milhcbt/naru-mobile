@@ -1,0 +1,27 @@
+{
+    "AS_FlexContainer_ea4a234e3d2e44689b7b937b2169cbfe": {
+        "id": "AS_FlexContainer_ea4a234e3d2e44689b7b937b2169cbfe",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "name": "CopyFBox0aed0e441619c4f",
+            "type": "templates",
+            "platform": "",
+            "KUID": "abd82e6545234c6fb6c5cc1d6cee5f39"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__jc94e2cba76c4b8aa7dd769c1f2fefb3",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "getMapListNews();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

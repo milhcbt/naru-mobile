@@ -1,0 +1,169 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "CopyLabel0dce7e8df3e0846": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Lanjutkan"
+            },
+            "Image0e00c9392546c4c": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "indicator.png"
+            },
+            "Image0i7efd03987a146": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "obb1p.png"
+            },
+            "Label0gf2050f7063145": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Lewati"
+            },
+            "Label0iccfcb935fce41": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Berbagi informasi Penting"
+            },
+            "RichText0abed7bfd0e7f4c": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Aplikasi TemanBerbagi memudahkan Anda berbagi informasi kepada sesama yang memerlukan bantuan"
+            }
+        },
+        {
+            "CopyLabel0dce7e8df3e0846": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Lanjutkan"
+            },
+            "Image0e00c9392546c4c": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "indicator2.png"
+            },
+            "Image0i7efd03987a146": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "obb1.png"
+            },
+            "Label0gf2050f7063145": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Lewati"
+            },
+            "Label0iccfcb935fce41": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Berbagi Donasi"
+            },
+            "RichText0abed7bfd0e7f4c": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Aplikasi TemanBerbagi memudahkan Anda berbagi informasi dan melakukan donasi kepada sesama yang memerlukan bantuan"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0px"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "01",
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "a44f70df15034649b622dfea01d5fa3b",
+    "groupcells": false,
+    "hasSections": false,
+    "id": "sgmOnBoard",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "df5131d8fdba49f08aaead18c282dd78",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": false,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom",
+        "vdistance": 1
+    },
+    "parent": "FlexContainer0fe844eae89c14f",
+    "pf": "frmOnBoard",
+    "retainselection": false,
+    "rowTemplateId": "a44f70df15034649b622dfea01d5fa3b",
+    "rowcounter": 1,
+    "rowfocusskin": "s0342d6ea9d643138af71b68cc89e659",
+    "rowskin": "sdec9da13fca4c95bf1b17c9cacabf8f",
+    "rowtemplate": "FBox0c65f81f1db3a42",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s565e8a9ad1a44ffaec8faf454cf5a90",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "64646400",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "swipeContext": {
+        "currentPage": 0,
+        "imageWidth": 1080,
+        "widthRatio": 0
+    },
+    "viewtype": "pageview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "CopyFlexContainer0c78403e6ae7847": "CopyFlexContainer0c78403e6ae7847",
+        "CopyFlexContainer0e666cffa462e41": "CopyFlexContainer0e666cffa462e41",
+        "CopyFlexContainer0e83978e32e4d46": "CopyFlexContainer0e83978e32e4d46",
+        "CopyLabel0dce7e8df3e0846": "CopyLabel0dce7e8df3e0846",
+        "FlexContainer0a1ad8f873bc542": "FlexContainer0a1ad8f873bc542",
+        "FlexContainer0f8f41d6ec39247": "FlexContainer0f8f41d6ec39247",
+        "FlexContainer0gd81ea46e56447": "FlexContainer0gd81ea46e56447",
+        "Image0e00c9392546c4c": "Image0e00c9392546c4c",
+        "Image0i7efd03987a146": "Image0i7efd03987a146",
+        "Label0gf2050f7063145": "Label0gf2050f7063145",
+        "Label0iccfcb935fce41": "Label0iccfcb935fce41",
+        "RichText0abed7bfd0e7f4c": "RichText0abed7bfd0e7f4c",
+        "flxMain": "flxMain",
+        "lanjut": "lanjut",
+        "lewati": "lewati"
+    },
+    "zindex": 1
+}

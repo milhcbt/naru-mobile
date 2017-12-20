@@ -1,0 +1,30 @@
+{
+    "AS_Image_bd96b76536de48bb8db7f8ba5ebe1600": {
+        "id": "AS_Image_bd96b76536de48bb8db7f8ba5ebe1600",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmSukarelawan",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d0a75f8af1ad453d8d37ec52645a1214"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__a15b6ebfabaa48feadad011adfdcd782",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "checkSkSuka();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

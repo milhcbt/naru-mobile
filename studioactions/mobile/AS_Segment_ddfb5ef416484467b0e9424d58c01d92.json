@@ -1,0 +1,30 @@
+{
+    "AS_Segment_ddfb5ef416484467b0e9424d58c01d92": {
+        "id": "AS_Segment_ddfb5ef416484467b0e9424d58c01d92",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "flxNewsEvent",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b10dbe6cc513409980c58ac12b52fba1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__a35b2936718e45e3ab1231eb92da36dc",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "pencarianNewsKateogri();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

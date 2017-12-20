@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sce54f618fc84fd2a7e5543bd5374685",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "1%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 1,
+    "id": "lblNamaTragedy",
+    "info": null,
+    "isvisible": true,
+    "kuid": "dc303c7d624e45b9b2cd913fba36794e",
+    "name": "kony.ui.RichText",
+    "parent": "flxBody",
+    "pf": "frmSukarelawan",
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

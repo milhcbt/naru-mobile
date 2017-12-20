@@ -1,0 +1,24 @@
+{
+    "AS_Label_b9e3184853164e6587b5a2987305f166": {
+        "id": "AS_Label_b9e3184853164e6587b5a2987305f166",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmSukarelawan",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d0a75f8af1ad453d8d37ec52645a1214"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

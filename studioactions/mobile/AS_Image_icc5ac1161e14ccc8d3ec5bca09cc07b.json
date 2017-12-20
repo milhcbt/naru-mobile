@@ -1,0 +1,23 @@
+{
+    "AS_Image_icc5ac1161e14ccc8d3ec5bca09cc07b": {
+        "id": "AS_Image_icc5ac1161e14ccc8d3ec5bca09cc07b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onTouchEnd_e47457bfe8bd4103a8bc47c01d1f59b5",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "AS_Map_d9ad4bb379704dd8ba5823859fa83e5b": {
+        "id": "AS_Map_d9ad4bb379704dd8ba5823859fa83e5b",
+        "type": "ACTION_SEQUENCE",
+        "name": "map_showLoc",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMap",
+            "type": "forms",
+            "platform": null,
+            "KUID": "e0f6b8386fc047448ce01c7269103ebe"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__dad323f874584e9480aacdd02c90a647",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert(locCharity);\nfrmMap.txtFrom.text = locCharity;\ngeocode(locCharity);  \n\n\n\n",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

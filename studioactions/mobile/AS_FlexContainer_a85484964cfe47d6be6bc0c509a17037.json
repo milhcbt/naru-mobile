@@ -1,0 +1,27 @@
+{
+    "AS_FlexContainer_a85484964cfe47d6be6bc0c509a17037": {
+        "id": "AS_FlexContainer_a85484964cfe47d6be6bc0c509a17037",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "name": "FBox0c65f81f1db3a42",
+            "type": "templates",
+            "platform": null,
+            "KUID": "a44f70df15034649b622dfea01d5fa3b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__acc686136d184ee69a4187b3767fd432",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "goLewati();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

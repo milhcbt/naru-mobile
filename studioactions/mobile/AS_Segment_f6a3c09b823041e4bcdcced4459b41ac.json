@@ -1,0 +1,23 @@
+{
+    "AS_Segment_f6a3c09b823041e4bcdcced4459b41ac": {
+        "id": "AS_Segment_f6a3c09b823041e4bcdcced4459b41ac",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onRowClick_g702cf5b6c6a4dc2ac21c8408d5b7ffe",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "klikCharityEvent();",
+            "callbackType": null
+        }]
+    }
+}

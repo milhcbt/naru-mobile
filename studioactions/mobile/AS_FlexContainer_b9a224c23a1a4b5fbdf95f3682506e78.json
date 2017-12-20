@@ -1,0 +1,17 @@
+{
+    "AS_FlexContainer_b9a224c23a1a4b5fbdf95f3682506e78": {
+        "id": "AS_FlexContainer_b9a224c23a1a4b5fbdf95f3682506e78",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_e3554799f7024cdfb23da1527bf1f60c",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "\nshareFacebookPromoDetail(globeDetaiIDPromo);",
+            "callbackType": null
+        }]
+    }
+}

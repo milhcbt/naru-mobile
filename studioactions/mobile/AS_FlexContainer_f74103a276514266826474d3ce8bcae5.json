@@ -1,0 +1,17 @@
+{
+    "AS_FlexContainer_f74103a276514266826474d3ce8bcae5": {
+        "id": "AS_FlexContainer_f74103a276514266826474d3ce8bcae5",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_gbc4f617616b4e7fab8b376a48ee176b",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmDetailNews.flxShare.setVisibility(true);",
+            "callbackType": null
+        }]
+    }
+}

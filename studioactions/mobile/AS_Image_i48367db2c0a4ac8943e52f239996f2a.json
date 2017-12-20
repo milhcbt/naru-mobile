@@ -1,0 +1,30 @@
+{
+    "AS_Image_i48367db2c0a4ac8943e52f239996f2a": {
+        "id": "AS_Image_i48367db2c0a4ac8943e52f239996f2a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmSukarelawan",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d0a75f8af1ad453d8d37ec52645a1214"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__h98b5d8d13c349ca8276b15f556299af",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmDetailNews.show();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

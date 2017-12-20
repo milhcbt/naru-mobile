@@ -1,0 +1,18 @@
+{
+    "AS_FlexScrollContainer_abc810074c76435a9b835f0d9b3bd593": {
+        "id": "AS_FlexScrollContainer_abc810074c76435a9b835f0d9b3bd593",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "flxNewsEvent",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b10dbe6cc513409980c58ac12b52fba1"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "AS_FlexContainer_i99fba2d203740239cfc0faf650568c9": {
+        "id": "AS_FlexContainer_i99fba2d203740239cfc0faf650568c9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_b58a95f81888489196adea54462a71ee",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmSukarelawan.show();",
+            "callbackType": null
+        }]
+    }
+}

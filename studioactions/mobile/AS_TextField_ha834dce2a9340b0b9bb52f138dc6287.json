@@ -1,0 +1,27 @@
+{
+    "AS_TextField_ha834dce2a9340b0b9bb52f138dc6287": {
+        "id": "AS_TextField_ha834dce2a9340b0b9bb52f138dc6287",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "flxNewsEvent",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b10dbe6cc513409980c58ac12b52fba1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__he0afaac7d94458ea68de3e506cbffc6",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "pencarianNews();\npencarianListPromoTelkom();\npencarianCharity();\npencarianPromoTelkom();\n",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

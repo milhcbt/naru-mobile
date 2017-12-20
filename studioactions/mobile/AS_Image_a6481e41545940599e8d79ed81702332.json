@@ -1,0 +1,24 @@
+{
+    "AS_Image_a6481e41545940599e8d79ed81702332": {
+        "id": "AS_Image_a6481e41545940599e8d79ed81702332",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmDonasi",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c76b443ebf7d4b20a2c44aa2e67467cf"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

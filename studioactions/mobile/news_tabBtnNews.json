@@ -1,0 +1,25 @@
+{
+    "AS_Button_b1939305770248ef8c74221f1c719079": {
+        "id": "AS_Button_b1939305770248ef8c74221f1c719079",
+        "type": "ACTION_SEQUENCE",
+        "name": "news_tabBtnNews",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "flxNewsEvent",
+            "type": "forms",
+            "platform": null,
+            "KUID": "b10dbe6cc513409980c58ac12b52fba1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__b048038b20a9422c85383d2a23aa9e4b",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "changeTabNews();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

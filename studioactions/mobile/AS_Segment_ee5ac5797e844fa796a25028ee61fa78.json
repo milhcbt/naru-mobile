@@ -1,0 +1,23 @@
+{
+    "AS_Segment_ee5ac5797e844fa796a25028ee61fa78": {
+        "id": "AS_Segment_ee5ac5797e844fa796a25028ee61fa78",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onRowClick_db2e97dce8db4f32803e9ef1263943f2",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "klikRowNews();",
+            "callbackType": null
+        }]
+    }
+}

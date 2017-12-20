@@ -1,0 +1,27 @@
+{
+    "AS_FlexContainer_ff8d98981cce4ae8ba87f503695a0e7d": {
+        "id": "AS_FlexContainer_ff8d98981cce4ae8ba87f503695a0e7d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "name": "CopyFBox0f94de298832946",
+            "type": "templates",
+            "platform": null,
+            "KUID": "i42b2126b5c44a80b255be400169a2af"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__d4b5ff9d253e4f41a4424f4bacb47b38",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "getMapListCharityTelkom();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

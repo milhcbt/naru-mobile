@@ -1,0 +1,17 @@
+{
+    "AS_FlexContainer_a569bde523774e0f9b3794ff338adf0a": {
+        "id": "AS_FlexContainer_a569bde523774e0f9b3794ff338adf0a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_ia727683ade14f7e8ab2d438f26caba1",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "shareFacebook(globIdNews);",
+            "callbackType": null
+        }]
+    }
+}

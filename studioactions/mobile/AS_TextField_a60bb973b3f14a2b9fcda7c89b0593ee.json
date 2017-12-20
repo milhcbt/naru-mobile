@@ -1,0 +1,23 @@
+{
+    "AS_TextField_a60bb973b3f14a2b9fcda7c89b0593ee": {
+        "id": "AS_TextField_a60bb973b3f14a2b9fcda7c89b0593ee",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onTouchEnd_e266f457df414529a914ffbac92e5548",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "searchPromo();",
+            "callbackType": null
+        }]
+    }
+}

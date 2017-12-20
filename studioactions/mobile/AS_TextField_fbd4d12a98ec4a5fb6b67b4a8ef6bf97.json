@@ -1,0 +1,20 @@
+{
+    "AS_TextField_fbd4d12a98ec4a5fb6b67b4a8ef6bf97": {
+        "id": "AS_TextField_fbd4d12a98ec4a5fb6b67b4a8ef6bf97",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onDone_g0d388452d134b4dabe17550e2222bb6",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "pencarianPromo();",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,214 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "CopyLabel0e6f965040c2f49": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Posko"
+            },
+            "Label0i6d09f79b8ab4f": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Camp Pegungsian"
+            },
+            "So": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "SO"
+            },
+            "So2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2"
+            },
+            "celsius": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "C"
+            },
+            "co": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "CO"
+            },
+            "co2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2"
+            },
+            "derajat": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "o"
+            },
+            "grafikAman": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "grafikaman.png"
+            },
+            "grafikBahaya": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "grafikbahay.png"
+            },
+            "grafikWaspada": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "grafikwaspada.png"
+            },
+            "jumlahBahaya": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2.000"
+            },
+            "jumlahWaspada": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "0.080"
+            },
+            "lblAman": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "AMAN"
+            },
+            "lblBahaya": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "BAHAYA"
+            },
+            "lblSuhu": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "27"
+            },
+            "lblSuhuAman": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Suhu"
+            },
+            "lblWasapada": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "WASPADA"
+            },
+            "namaDaerah": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Kondisi Karangasem"
+            },
+            "ppm": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ppm"
+            },
+            "ppmWaspada": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ppm"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "23%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "00",
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "g0848292bfc94a1bb855fc549aa44636",
+    "groupcells": false,
+    "hasSections": false,
+    "id": "sgmGrafik",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": false,
+    "kuid": "je5631499364453dbfac87a2b889e749",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxPantauContent",
+    "pf": "frmPantauPage",
+    "retainselection": false,
+    "rowTemplateId": "g0848292bfc94a1bb855fc549aa44636",
+    "rowcounter": 0,
+    "rowfocusskin": "s0342d6ea9d643138af71b68cc89e659",
+    "rowskin": "sf1b1ec3d680457d911f2e76222c4b1e",
+    "rowtemplate": "CopyFBox0g25744ef9e854e",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": null,
+    "sectionheaderskin": "s565e8a9ad1a44ffaec8faf454cf5a90",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "f8f8f800",
+    "separatorrequired": true,
+    "separatorthickness": 10,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "So": "So",
+        "So2": "So2",
+        "celsius": "celsius",
+        "co": "co",
+        "co2": "co2",
+        "derajat": "derajat",
+        "flxAman": "flxAman",
+        "flxBahaya": "flxBahaya",
+        "flxContentGrafik": "flxContentGrafik",
+        "flxIsi": "flxIsi",
+        "flxIsiWaspada": "flxIsiWaspada",
+        "flxLabel": "flxLabel",
+        "flxLabelBahaya": "flxLabelBahaya",
+        "flxLabelWaspada": "flxLabelWaspada",
+        "flxLine": "flxLine",
+        "flxLine2": "flxLine2",
+        "flxWaspada": "flxWaspada",
+        "grafikAman": "grafikAman",
+        "grafikBahaya": "grafikBahaya",
+        "grafikWaspada": "grafikWaspada",
+        "jumlahBahaya": "jumlahBahaya",
+        "jumlahWaspada": "jumlahWaspada",
+        "lblAman": "lblAman",
+        "lblBahaya": "lblBahaya",
+        "lblIsiBahaya": "lblIsiBahaya",
+        "lblSuhu": "lblSuhu",
+        "lblSuhuAman": "lblSuhuAman",
+        "lblWasapada": "lblWasapada",
+        "namaDaerah": "namaDaerah",
+        "ppm": "ppm",
+        "ppmWaspada": "ppmWaspada"
+    },
+    "zindex": 1
+}

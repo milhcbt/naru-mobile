@@ -1,0 +1,21 @@
+{
+    "AS_Browser_a5dcf84ecec04730ae58574499c0861f": {
+        "id": "AS_Browser_a5dcf84ecec04730ae58574499c0861f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "params"
+        }],
+        "contextObj": {
+            "name": "frmWebview",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b3e53380a24741e99c3891b6f7bc9d10"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

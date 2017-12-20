@@ -1,0 +1,30 @@
+{
+    "AS_Button_ga3e4b905b454b0faa2b5976f9a0abbc": {
+        "id": "AS_Button_ga3e4b905b454b0faa2b5976f9a0abbc",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmMap",
+            "type": "forms",
+            "platform": "",
+            "KUID": "bbb496ece7b5405fa37967a4ea12e5da"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__db9b91544dc4417d918efba8db692704",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "callPlace();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__markedForDelete__": true,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s18c67b56e52452dbbc740fbb4061a9d",
+    "_text_": "1. Pastikan data yang dimasukkan telah sesuai\n\n<br><br>\n2. Dana yang terkumpul akan diberikan kepada instansi yang telah ditunjuk untuk \nditeruskan kepada yang membutuhkan\n<br><br>\n3. Tujuan pemberian donasi akan diberikan untuk event yang dipilih, namun tidak menutup kesempatan diarahkan kepada event lain yang lebih membutuhkan sesuai ketentuan instansi.\n\n<br><br> \n4. Fitur ini dibuat sebagai sarana untuk memudahkan anda dalam beramal.",
+    "_top_": {
+        "type": "string",
+        "value": "4%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "rtxIsiSyarat",
+    "info": null,
+    "isvisible": true,
+    "kuid": "c5e9099e79f54c3e9579489133f247e4",
+    "name": "kony.ui.RichText",
+    "parent": "flxContent",
+    "pf": "frmSKDonasi",
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

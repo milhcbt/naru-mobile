@@ -1,0 +1,62 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__markedForDelete__": true,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "70%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "To",
+    "_skin_": "s3340c8f3c06430d8f05b597415e9c7c",
+    "_text_": "",
+    "_width_": {
+        "type": "string",
+        "value": "87%"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "txtTujuan",
+    "ide_onDone": "AS_TextField_e49f7e9c4ebe4144b4a83f7de3e8e657",
+    "info": null,
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "j7c563fa396b441493fc5088e1f6935c",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "parent": "flxTxtTujuan",
+    "pf": "frmMap",
+    "placeholderskin": "s244116f6718435780a9c7bf0551a53f",
+    "securetextentry": false,
+    "textinputmode": "A",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

@@ -1,0 +1,18 @@
+{
+    "AS_FlexContainer_iaaaf9d42acc4d898de16fa523654801": {
+        "id": "AS_FlexContainer_iaaaf9d42acc4d898de16fa523654801",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDetailNews",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ba8f74edee634efa9623468d59c289eb"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

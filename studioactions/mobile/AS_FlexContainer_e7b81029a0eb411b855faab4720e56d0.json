@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_e7b81029a0eb411b855faab4720e56d0": {
+        "id": "AS_FlexContainer_e7b81029a0eb411b855faab4720e56d0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDetailNews",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ba8f74edee634efa9623468d59c289eb"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__j2cdc88996a644329c35ad15a5b71e96",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmDonasi.show();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

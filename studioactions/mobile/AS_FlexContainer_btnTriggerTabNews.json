@@ -1,0 +1,25 @@
+{
+    "AS_FlexContainer_db02713bcae94820bc5329591d0b6b71": {
+        "id": "AS_FlexContainer_db02713bcae94820bc5329591d0b6b71",
+        "type": "ACTION_SEQUENCE",
+        "name": "AS_FlexContainer_btnTriggerTabNews",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "flxNewsEvent",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b10dbe6cc513409980c58ac12b52fba1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__c9233d3c39374ffcae6a566842f6eff4",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "changeTabNews();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

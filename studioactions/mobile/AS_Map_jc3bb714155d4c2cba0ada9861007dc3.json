@@ -1,0 +1,24 @@
+{
+    "AS_Map_jc3bb714155d4c2cba0ada9861007dc3": {
+        "id": "AS_Map_jc3bb714155d4c2cba0ada9861007dc3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMap",
+            "type": "forms",
+            "platform": null,
+            "KUID": "b0b18f5bb6964ae3a6ce7812195fa4f9"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__df86a93704dc4e3f97b915fb656202c0",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "geocode(locNews);  \n  \tfrmMap.txtFrom.text =\"\";\n  \tfrmMap.txtFrom.text = locNews;",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

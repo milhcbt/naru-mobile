@@ -1,0 +1,31 @@
+{
+    "AS_Label_e5c25e7078674340a05db53161361943": {
+        "id": "AS_Label_e5c25e7078674340a05db53161361943",
+        "type": "ACTION_SEQUENCE",
+        "name": "btnSK2",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmSukarelawan",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d0a75f8af1ad453d8d37ec52645a1214"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__e7d8263160e24626b05a842e537d8313",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmSK.show();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

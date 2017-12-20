@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__markedForDelete__": true,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s18c67b56e52452dbbc740fbb4061a9d",
+    "_text_": "• Usia minimal 18 tahun <br><BR> \n• Atas kesadaran dan kemauan sendiri bersedia mendaftarkan diri menjadi anggota instansi relawan <BR> <BR> \n • Memiliki kesanggupan secara fisik dan mental <br><br>• Bersedia menjalankan syarat dan ketentuan instansi relawan terkait \n<BR> <BR>  • Pendaftar memberikan izin untuk memanfaatkan atau meneruskan data atau informasi ke instasi relawan yang terkait \n<BR> <BR> • Kontrak kerjasama relawan langsung antara relawan dengan instasi terkait \n<BR> <BR> \n• Aplikasi ini hanya sebagai media yang menginformasikan data relawan ke instansi terkait.",
+    "_top_": {
+        "type": "string",
+        "value": "4%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "rtxIsiSyarat",
+    "info": null,
+    "isvisible": true,
+    "kuid": "b3124c5686af43b991a672b2955534cd",
+    "name": "kony.ui.RichText",
+    "parent": "flxContent",
+    "pf": "frmSK",
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

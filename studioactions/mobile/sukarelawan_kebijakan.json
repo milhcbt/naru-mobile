@@ -1,0 +1,31 @@
+{
+    "AS_Label_d0a31b5196964d72b1fe8fed0e1a4ffc": {
+        "id": "AS_Label_d0a31b5196964d72b1fe8fed0e1a4ffc",
+        "type": "ACTION_SEQUENCE",
+        "name": "sukarelawan_kebijakan",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmSukarelawan",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d0a75f8af1ad453d8d37ec52645a1214"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__ic6e0bca32c74764993fa1a820e4825c",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmSK.show();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "AS_Image_f614cd2385a74cdf9b4bc00db36f9693": {
+        "id": "AS_Image_f614cd2385a74cdf9b4bc00db36f9693",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmDonasi",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c76b443ebf7d4b20a2c44aa2e67467cf"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__h13b47de9c46471986cc9b8619ef7119",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "pilihTmoney();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

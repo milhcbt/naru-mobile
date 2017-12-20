@@ -1,0 +1,25 @@
+{
+    "AS_Button_ffeaa960c0d04c55a557bcb655f38c35": {
+        "id": "AS_Button_ffeaa960c0d04c55a557bcb655f38c35",
+        "type": "ACTION_SEQUENCE",
+        "name": "news_tabBtnCharity",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "flxNewsEvent",
+            "type": "forms",
+            "platform": null,
+            "KUID": "b10dbe6cc513409980c58ac12b52fba1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__jb2cd009d5c44083872fea39d6e24a14",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "changeTabCharity();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

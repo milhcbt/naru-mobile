@@ -1,0 +1,17 @@
+{
+    "AS_FlexContainer_g7957e9c86284bceb1e68fdfc463aebb": {
+        "id": "AS_FlexContainer_g7957e9c86284bceb1e68fdfc463aebb",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_f91ed3957d074900b843ca265d26838f",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "gestureOpenShareSukarelawan();",
+            "callbackType": null
+        }]
+    }
+}

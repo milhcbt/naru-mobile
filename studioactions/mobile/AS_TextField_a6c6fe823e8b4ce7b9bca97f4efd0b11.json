@@ -1,0 +1,21 @@
+{
+    "AS_TextField_a6c6fe823e8b4ce7b9bca97f4efd0b11": {
+        "id": "AS_TextField_a6c6fe823e8b4ce7b9bca97f4efd0b11",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "flxNewsEvent",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b10dbe6cc513409980c58ac12b52fba1"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "AS_Map_c59273a4774b4b4f9b6628a4250a620e": {
+        "id": "AS_Map_c59273a4774b4b4f9b6628a4250a620e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onMapLoaded_ab520d9169e04abba2e002369d26ed1d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "getPositionMudik();",
+            "callbackType": null
+        }]
+    }
+}

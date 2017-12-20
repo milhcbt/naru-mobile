@@ -1,0 +1,27 @@
+{
+    "AS_FlexContainer_a4200e1fbc9646adbd9cfce601973b79": {
+        "id": "AS_FlexContainer_a4200e1fbc9646adbd9cfce601973b79",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "name": "CopyFBox0abbf84ae3b8140",
+            "type": "templates",
+            "platform": null,
+            "KUID": "aaf8a8528f42438bac8457ef44f66e86"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__gb7116acc12c44ccbbd601285e70712c",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "getMapListCharityEvent();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

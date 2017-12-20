@@ -1,0 +1,17 @@
+{
+    "AS_FlexContainer_h8b4df1b9d734277b9fe1cd975a6f0cc": {
+        "id": "AS_FlexContainer_h8b4df1b9d734277b9fe1cd975a6f0cc",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_e3992c9d6565431c90a0a52c9327b6ec",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "gestureCloseShare();",
+            "callbackType": null
+        }]
+    }
+}

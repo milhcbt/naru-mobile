@@ -1,0 +1,17 @@
+{
+    "AS_FlexContainer_e6c4b0ae8d0141848ccd2c2313846c67": {
+        "id": "AS_FlexContainer_e6c4b0ae8d0141848ccd2c2313846c67",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_i9c8bd1cc6d742dab6919b4106692ca9",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "flxNewsEvent.show();",
+            "callbackType": null
+        }]
+    }
+}

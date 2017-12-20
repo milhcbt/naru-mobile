@@ -1,0 +1,17 @@
+{
+    "AS_FlexContainer_ab64bc030f864846b81a59d73d3e3485": {
+        "id": "AS_FlexContainer_ab64bc030f864846b81a59d73d3e3485",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_aa975c6a53da40d1a004d01791f90761",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmDonasi.show();",
+            "callbackType": null
+        }]
+    }
+}

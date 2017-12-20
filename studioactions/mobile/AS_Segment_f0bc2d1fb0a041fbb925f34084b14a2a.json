@@ -1,0 +1,23 @@
+{
+    "AS_Segment_f0bc2d1fb0a041fbb925f34084b14a2a": {
+        "id": "AS_Segment_f0bc2d1fb0a041fbb925f34084b14a2a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onRowClick_f7259f8ae0a444c48d227d5ec03bc372",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "klikPromoTelkom();",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_f7ad5496f6a747e390dc67a77b354b83": {
+        "id": "AS_FlexContainer_f7ad5496f6a747e390dc67a77b354b83",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmDonasi",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c76b443ebf7d4b20a2c44aa2e67467cf"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

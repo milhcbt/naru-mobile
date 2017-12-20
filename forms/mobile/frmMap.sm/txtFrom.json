@@ -1,0 +1,62 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__markedForDelete__": true,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "70%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "From",
+    "_skin_": "s3340c8f3c06430d8f05b597415e9c7c",
+    "_text_": "",
+    "_width_": {
+        "type": "string",
+        "value": "87%"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "txtFrom",
+    "ide_onTouchEnd": "AS_TextField_e3f0134bb7d34eecbf090604c63a2e0f",
+    "info": null,
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "i0fd556f98af47c1990845430dac824a",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "parent": "flxTxtFrom",
+    "pf": "frmMap",
+    "placeholderskin": "s244116f6718435780a9c7bf0551a53f",
+    "securetextentry": false,
+    "textinputmode": "A",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

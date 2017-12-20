@@ -1,0 +1,30 @@
+{
+    "AS_Image_ef018c81d20e4af698cbc6d893e54d0b": {
+        "id": "AS_Image_ef018c81d20e4af698cbc6d893e54d0b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmMudik",
+            "type": "forms",
+            "platform": null,
+            "KUID": "f0cdab7ff8c1415fa4fd4ef6c0b3a837"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__jdedea7b11394c49bf1c209b71230dc5",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

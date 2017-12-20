@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "20%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s5b44556fc404699a8ee6d3b4e182426",
+    "_text_": "Hubungi Sekarang",
+    "_top_": {
+        "type": "string",
+        "value": "75%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s799ac5482ed41b0956848ef8a543b20",
+    "id": "btnCallPopup",
+    "ide_onTouchEnd": "AS_Button_b8e4e17d959244fe8f61064081c30587",
+    "info": null,
+    "isvisible": true,
+    "kuid": "d1ffd7e1a19e4ea6a42c8a89d905c7c1",
+    "name": "kony.ui.Button",
+    "parent": "flxPopUp",
+    "pf": "frmMap",
+    "wType": "Button",
+    "zindex": 1
+}

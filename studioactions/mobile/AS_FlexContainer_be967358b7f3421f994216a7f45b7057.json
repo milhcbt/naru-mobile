@@ -1,0 +1,17 @@
+{
+    "AS_FlexContainer_be967358b7f3421f994216a7f45b7057": {
+        "id": "AS_FlexContainer_be967358b7f3421f994216a7f45b7057",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_a6e56075691f43f5a337197fb8852d98",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "klikCamp();",
+            "callbackType": null
+        }]
+    }
+}

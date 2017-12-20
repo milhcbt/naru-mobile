@@ -1,0 +1,17 @@
+{
+    "AS_FlexContainer_dfe5d463a4314f54b110243468229acb": {
+        "id": "AS_FlexContainer_dfe5d463a4314f54b110243468229acb",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_h3a6312d039143a6b25a0fab55043769",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "getLocMap();",
+            "callbackType": null
+        }]
+    }
+}

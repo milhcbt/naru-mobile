@@ -1,0 +1,1 @@
+require(['bottombar/botBar/botBar','bottombar/botBar/botBarController','bottombar/botBar/botBarControllerActions','bottombar/botBar/userbotBarController'], function(){});

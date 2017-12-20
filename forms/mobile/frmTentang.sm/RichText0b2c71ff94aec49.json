@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s099be13f458400d8756b4d419491ed6",
+    "_text_": "<p align=\"justify\"> \n\nTeman Berbagi, Aplikasi berbagi informasi, jalur, donasi, relawan dan lainnya. \n<br><br>\nAplikasi Teman berbagi informasi terkini terkait bencana alam, kecelakaan, kebakaran, dan lainnya dari berbagai portal berita juga social media. \n<br><br>\nMelalui aplikasi Teman Berbagi, masyarakat berbagai kalangan dapat saling berbagi dan berpartisipasi dengan sesama dalam situasi bencana. \n\n<br><br>\nBaik berbagi melalui bantuan donasi maupun sebagai relawan. Menyediakan peta jalur mudik yang aman dan disertai informasi lokasi penting.\n\n</p>\n",
+    "_top_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "RichText0b2c71ff94aec49",
+    "info": null,
+    "isvisible": true,
+    "kuid": "dd19865e4ba146fba834046f76498171",
+    "name": "kony.ui.RichText",
+    "parent": "flxIsi",
+    "pf": "frmTentang",
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

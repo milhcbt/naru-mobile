@@ -1,0 +1,30 @@
+{
+    "AS_Segment_e48740ff64b8477cb20d98236a4c69e5": {
+        "id": "AS_Segment_e48740ff64b8477cb20d98236a4c69e5",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "flxNewsEvent",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b10dbe6cc513409980c58ac12b52fba1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__e2126e8cc7064c04a97271ecf083c7be",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "klikPromoTelkom();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

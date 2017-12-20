@@ -1,0 +1,20 @@
+{
+    "AS_TextField_a4ac8654fde74a6cba669d929f1634b7": {
+        "id": "AS_TextField_a4ac8654fde74a6cba669d929f1634b7",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onDone_e98ea536d61d49e086c69e05fcb40e3a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "tujuanMudik();",
+            "callbackType": null
+        }]
+    }
+}

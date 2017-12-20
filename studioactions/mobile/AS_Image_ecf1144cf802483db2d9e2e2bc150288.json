@@ -1,0 +1,30 @@
+{
+    "AS_Image_ecf1144cf802483db2d9e2e2bc150288": {
+        "id": "AS_Image_ecf1144cf802483db2d9e2e2bc150288",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmPantau",
+            "type": "forms",
+            "platform": null,
+            "KUID": "jb0f82c8b7c6427fa2f26c7841462316"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__e5fdb20271e34913abb31d1fd6678932",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmPantau.flxBotBar.imgPantauFocus.setVisibility(true);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

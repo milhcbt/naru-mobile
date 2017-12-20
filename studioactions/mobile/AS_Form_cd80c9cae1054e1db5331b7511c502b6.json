@@ -1,0 +1,24 @@
+{
+    "AS_Form_cd80c9cae1054e1db5331b7511c502b6": {
+        "id": "AS_Form_cd80c9cae1054e1db5331b7511c502b6",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmListPromo",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a28efd8b521c477792556edbb9ab6169"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__cda993725eb1480e87e26d464bc96ad1",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "getAnakPromo();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

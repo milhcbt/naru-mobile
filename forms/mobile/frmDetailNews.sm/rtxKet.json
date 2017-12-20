@@ -1,0 +1,51 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__markedForDelete__": true,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sb55239eed0a4f0dae8b2f6ad3c175ba",
+    "_text_": "-",
+    "_top_": {
+        "type": "string",
+        "value": "7dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "rtxKet",
+    "info": null,
+    "isvisible": true,
+    "kuid": "b5613b092c024e7dbcbe9538ead07f9e",
+    "name": "kony.ui.RichText",
+    "paddinginpixel": false,
+    "parent": "flxKetNews",
+    "pf": "frmDetailNews",
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

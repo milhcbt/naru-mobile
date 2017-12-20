@@ -1,0 +1,20 @@
+{
+    "AS_FlexContainer_d905cd36c61c43b0a55cba21b0d757f7": {
+        "id": "AS_FlexContainer_d905cd36c61c43b0a55cba21b0d757f7",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_d17efeaee9004364bcdf4dd72f20a8f9",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "getMapListNews();",
+            "callbackType": null
+        }]
+    }
+}

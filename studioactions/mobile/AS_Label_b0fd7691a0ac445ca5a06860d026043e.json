@@ -1,0 +1,30 @@
+{
+    "AS_Label_b0fd7691a0ac445ca5a06860d026043e": {
+        "id": "AS_Label_b0fd7691a0ac445ca5a06860d026043e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmPantauPage",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ac7fe80c38284433afb5232c620af58a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__gbf414690d7348f8b515bd78006266c7",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "swipeGestureLeftPage();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

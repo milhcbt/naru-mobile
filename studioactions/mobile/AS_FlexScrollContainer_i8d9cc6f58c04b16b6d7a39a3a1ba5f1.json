@@ -1,0 +1,47 @@
+{
+    "AS_FlexScrollContainer_i8d9cc6f58c04b16b6d7a39a3a1ba5f1": {
+        "id": "AS_FlexScrollContainer_i8d9cc6f58c04b16b6d7a39a3a1ba5f1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "flxNewsEvent",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b10dbe6cc513409980c58ac12b52fba1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "MOVE_ACTION____db3e0c69568f472889bfd865c2486bfe",
+            "type": "MOVE_ACTION",
+            "itemType": "FORM",
+            "itemId": "flxNewsEvent",
+            "widgetId": "flxMain",
+            "itemKUID": "b10dbe6cc513409980c58ac12b52fba1",
+            "widgetKUID": "jda4b91ce23d40dc809f59f37027b794",
+            "wType": "FlexContainer",
+            "animationObject": {
+                "left": "0%",
+                "anchorPoint": {},
+                "stepConfig": {
+                    "timingFunction": "kony.anim.EASE"
+                }
+            },
+            "config": {
+                "delay": "0",
+                "iterationCount": 1,
+                "fillMode": "kony.anim.FILL_MODE_FORWARDS",
+                "duration": "250"
+            },
+            "start": "Immediately",
+            "animationId": "MOVE_ACTION____db3e0c69568f472889bfd865c2486bfe",
+            "displayAnimationId": "MOVE_ACTION____db3e0c69568f472889bfd865c2486bfe",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null,
+            "widgetPath": "flxNewsEvent.flxMain"
+        }]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "AS_FlexContainer_b0a3e968399c4fa7a141995262a452eb": {
+        "id": "AS_FlexContainer_b0a3e968399c4fa7a141995262a452eb",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_caf51a56d55e4187876dc622b20552dc",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "shareTwitter(globTitle);",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,139 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "author": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "btnPeta": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "btnPetaa": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "btnlokasi1.png"
+            },
+            "lblSelengkapnya": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Selengkapnya..."
+            },
+            "newsDescription": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "newsImage": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "newsTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "3%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "4%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "94%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "00",
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "de59841ddc9d4867b52417f572c97827",
+    "groupcells": false,
+    "hasSections": false,
+    "id": "sgmHotNews",
+    "ide_onRowClick": "AS_Segment_ea728b396204405a829d3a5846245539",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": false,
+    "kuid": "ife4a4275deb4ae38e44d4676459ca85",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxContentNews",
+    "pf": "flxNewsEvent",
+    "retainselection": false,
+    "rowTemplateId": "de59841ddc9d4867b52417f572c97827",
+    "rowcounter": 0,
+    "rowfocusskin": "s0342d6ea9d643138af71b68cc89e659",
+    "rowskin": "sdf258da42394483933d5a24581cfff9",
+    "rowtemplate": "FBox0j652cf4d7c5641",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s565e8a9ad1a44ffaec8faf454cf5a90",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "f8f8f800",
+    "separatorrequired": true,
+    "separatorthickness": 15,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "FlexContainer0a15ff256c2ca40": "FlexContainer0a15ff256c2ca40",
+        "author": "author",
+        "btnPeta": "btnPeta",
+        "btnPetaa": "btnPetaa",
+        "flxBtnMaps": "flxBtnMaps",
+        "flxContentHot": "flxContentHot",
+        "flxImgNews": "flxImgNews",
+        "flxMapsBtn": "flxMapsBtn",
+        "lblSelengkapnya": "lblSelengkapnya",
+        "newsDescription": "newsDescription",
+        "newsImage": "newsImage",
+        "newsTitle": "newsTitle"
+    },
+    "zindex": 1
+}

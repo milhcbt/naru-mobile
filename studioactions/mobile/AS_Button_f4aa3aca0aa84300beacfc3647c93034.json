@@ -1,0 +1,30 @@
+{
+    "AS_Button_f4aa3aca0aa84300beacfc3647c93034": {
+        "id": "AS_Button_f4aa3aca0aa84300beacfc3647c93034",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmMap",
+            "type": "forms",
+            "platform": "",
+            "KUID": "bbb496ece7b5405fa37967a4ea12e5da"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__fa61ff2b0daa4ed8a7a819126156b83b",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "showPopup();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

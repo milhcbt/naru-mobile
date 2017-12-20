@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__markedForDelete__": true,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sff780b1f16e43bdb9f327169f0d54a0",
+    "_text_": "-",
+    "_top_": {
+        "type": "string",
+        "value": "7dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "rtxLokasi",
+    "info": null,
+    "isvisible": true,
+    "kuid": "c5174de386004a529621d07fd51b1454",
+    "name": "kony.ui.RichText",
+    "parent": "flxLokasi",
+    "pf": "frmDetailNews",
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

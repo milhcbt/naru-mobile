@@ -1,0 +1,31 @@
+{
+    "AS_Segment_j9183097dac24fe09a6572b35f51daba": {
+        "id": "AS_Segment_j9183097dac24fe09a6572b35f51daba",
+        "type": "ACTION_SEQUENCE",
+        "name": "AS_Segment_donasi",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmDonasi",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c76b443ebf7d4b20a2c44aa2e67467cf"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__h2349599deda4fbeabfc3b0588b811a6",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "gestureDonasilanjut();\npilihInstansi();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

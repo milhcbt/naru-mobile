@@ -1,0 +1,64 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "8%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "se476030fdd04b6cbfba85083a66476e",
+    "_top_": {
+        "type": "string",
+        "value": "92%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "imgHome",
+        "imgPantau",
+        "imgPencarian",
+        "imgLain",
+        "imgHomeFocus",
+        "imgPantauFocus",
+        "imgPencarianFocus",
+        "imgLainFocus"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxBotBar",
+    "info": null,
+    "isvisible": true,
+    "kuid": "fc2c6e79db9449e192befe5d543f9e40",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "botBar",
+    "pf": "userwidgetmodel",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

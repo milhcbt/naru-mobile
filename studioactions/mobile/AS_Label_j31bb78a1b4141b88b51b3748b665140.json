@@ -1,0 +1,30 @@
+{
+    "AS_Label_j31bb78a1b4141b88b51b3748b665140": {
+        "id": "AS_Label_j31bb78a1b4141b88b51b3748b665140",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "FBox0c65f81f1db3a42",
+            "type": "templates",
+            "platform": "",
+            "KUID": "a44f70df15034649b622dfea01d5fa3b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__f878e2470a764851a2629c73da9c1354",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "geserOnBoard();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

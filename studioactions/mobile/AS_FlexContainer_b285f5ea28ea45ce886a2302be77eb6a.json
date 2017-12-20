@@ -1,0 +1,17 @@
+{
+    "AS_FlexContainer_b285f5ea28ea45ce886a2302be77eb6a": {
+        "id": "AS_FlexContainer_b285f5ea28ea45ce886a2302be77eb6a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_j1006ee2e111422d93ec56084bc1029f",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "gestureCloseShareSukarelawan();",
+            "callbackType": null
+        }]
+    }
+}

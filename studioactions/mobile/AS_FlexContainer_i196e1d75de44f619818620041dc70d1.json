@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_i196e1d75de44f619818620041dc70d1": {
+        "id": "AS_FlexContainer_i196e1d75de44f619818620041dc70d1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDonasi",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c76b443ebf7d4b20a2c44aa2e67467cf"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__d101228111844f1bb5a8979afa764c92",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "postDonasi();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

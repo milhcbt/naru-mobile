@@ -1,0 +1,30 @@
+{
+    "AS_Image_b02caaa81a94451caa464afd185aeb3b": {
+        "id": "AS_Image_b02caaa81a94451caa464afd185aeb3b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmSukarelawan",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d0a75f8af1ad453d8d37ec52645a1214"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__h4654e86e5f84346bb4f12c794d81246",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmSukarelawan.flxShare.setVisibility(true);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

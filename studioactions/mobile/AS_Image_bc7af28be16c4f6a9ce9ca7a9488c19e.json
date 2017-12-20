@@ -1,0 +1,24 @@
+{
+    "AS_Image_bc7af28be16c4f6a9ce9ca7a9488c19e": {
+        "id": "AS_Image_bc7af28be16c4f6a9ce9ca7a9488c19e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "flxNewsEvent",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b10dbe6cc513409980c58ac12b52fba1"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

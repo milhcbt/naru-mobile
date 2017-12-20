@@ -1,0 +1,17 @@
+{
+    "AS_Map_f4be3e1b93134b11aaeb25a70cf45b22": {
+        "id": "AS_Map_f4be3e1b93134b11aaeb25a70cf45b22",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onMapLoaded_ied3b207be234990be48dd50ee6ec535",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "geocode(locNews);  \n  \tfrmMap.txtFrom.text =\"\";\n  \tfrmMap.txtFrom.text = locNews;",
+            "callbackType": null
+        }]
+    }
+}

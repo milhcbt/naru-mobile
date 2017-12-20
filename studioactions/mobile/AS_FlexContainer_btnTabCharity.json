@@ -1,0 +1,25 @@
+{
+    "AS_FlexContainer_cd668413e9e24c15a5501d3f1a5d91ce": {
+        "id": "AS_FlexContainer_cd668413e9e24c15a5501d3f1a5d91ce",
+        "type": "ACTION_SEQUENCE",
+        "name": "AS_FlexContainer_btnTabCharity",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "flxNewsEvent",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b10dbe6cc513409980c58ac12b52fba1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__ed58040219784a77bccde8955f4d83f0",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "changeTabCharity();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

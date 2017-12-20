@@ -1,0 +1,30 @@
+{
+    "AS_Image_eb25e3a4dbfe4c92aa611b84f58dfa5d": {
+        "id": "AS_Image_eb25e3a4dbfe4c92aa611b84f58dfa5d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmDetailNews",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ba8f74edee634efa9623468d59c289eb"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__c921457d15bc447dbae56b4d9adad35a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "back();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

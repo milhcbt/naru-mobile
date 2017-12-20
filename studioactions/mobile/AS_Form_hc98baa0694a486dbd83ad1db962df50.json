@@ -1,0 +1,24 @@
+{
+    "AS_Form_hc98baa0694a486dbd83ad1db962df50": {
+        "id": "AS_Form_hc98baa0694a486dbd83ad1db962df50",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "flxNewsEvent",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b10dbe6cc513409980c58ac12b52fba1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__cd7af12b399e44188c2fd4ebb8eb44cb",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "flxNewsEvent.lblTitleKategori.text = \"Kategori Berita\";",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

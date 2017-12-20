@@ -1,0 +1,17 @@
+{
+    "AS_FlexContainer_fd886b66373f44238dd16f11c5e25e30": {
+        "id": "AS_FlexContainer_fd886b66373f44238dd16f11c5e25e30",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_dacc1f053f5840a9843f2d6371c98753",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "changeTabNews();",
+            "callbackType": null
+        }]
+    }
+}

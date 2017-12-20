@@ -1,0 +1,24 @@
+{
+    "AS_Form_b64d421c79d74f76bf87af893a9fd472": {
+        "id": "AS_Form_b64d421c79d74f76bf87af893a9fd472",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmControl",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ef34386c79044d93ac80bd6b8116ac5e"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__a556448f3e1d43e8a41f018a133e4972",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "cekPreferenceInstall();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

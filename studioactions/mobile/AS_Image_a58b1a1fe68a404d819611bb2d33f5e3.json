@@ -1,0 +1,30 @@
+{
+    "AS_Image_a58b1a1fe68a404d819611bb2d33f5e3": {
+        "id": "AS_Image_a58b1a1fe68a404d819611bb2d33f5e3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmSukarelawan",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d0a75f8af1ad453d8d37ec52645a1214"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__f5a4bc8b8af047f7aa7c0ee97136ada4",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "pilihPmi();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

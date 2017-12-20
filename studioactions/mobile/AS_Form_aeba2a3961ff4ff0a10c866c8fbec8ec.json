@@ -1,0 +1,24 @@
+{
+    "AS_Form_aeba2a3961ff4ff0a10c866c8fbec8ec": {
+        "id": "AS_Form_aeba2a3961ff4ff0a10c866c8fbec8ec",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPantauPage",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ac7fe80c38284433afb5232c620af58a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__a71748105dcb446aa0c8bca0a519961e",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "getStreamPage();\ngetDataGraphPage();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

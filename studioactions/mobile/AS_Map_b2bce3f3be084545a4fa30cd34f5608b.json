@@ -1,0 +1,23 @@
+{
+    "AS_Map_b2bce3f3be084545a4fa30cd34f5608b": {
+        "id": "AS_Map_b2bce3f3be084545a4fa30cd34f5608b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMap",
+            "type": "forms",
+            "platform": null,
+            "KUID": "b0b18f5bb6964ae3a6ce7812195fa4f9"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onMapLoaded_d457c2b4025949298e5e8bfdb6d4f184",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "",
+            "callbackType": null
+        }]
+    }
+}

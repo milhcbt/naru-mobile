@@ -1,0 +1,24 @@
+{
+    "AS_Map_g5a7bcd0d14c46d08422e9abe321f6b1": {
+        "id": "AS_Map_g5a7bcd0d14c46d08422e9abe321f6b1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMap",
+            "type": "forms",
+            "platform": null,
+            "KUID": "bbb496ece7b5405fa37967a4ea12e5da"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__e70f472d01364cedb8c52c050b81ec57",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmMap.txtTujuan.text=\"\";\nfrmMap.txtFrom.text=\"\";\nif (statusLoc===\"fromList\"){\n\tfrmMap.txtFrom.text =\"\";\n  \tfrmMap.txtFrom.text = locNews;\t\n  geocode(locNews);  \n}else if (statusLoc===\"fromDesc\"){\n\t\n  \tfrmMap.txtFrom.text =\"\";\n    frmMap.txtFrom.text = locCharity;\n  geocode(locCharity);  \n}else if(statusLoc===\"fromListEvent\"){\n     \n  \tfrmMap.txtFrom.text =\"\";\n    frmMap.txtFrom.text = locCharEvent;\n  geocode(locCharEvent); \n}else if (statusLoc===\"fromListTelkom\"){\n    \n  \tfrmMap.txtFrom.text =\"\";\n    frmMap.txtFrom.text = locCharTelkom;\n  geocode(locCharTelkom);  \n}\n",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s0df4a0904ca49388078ad76a413050b",
+    "_src_": "imagedrag.png",
+    "_top_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerId": true,
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "FBox0f116278cf13840",
+        "templateType": "segments",
+        "topLevelBox": null
+    },
+    "id": "newsPromoImage",
+    "imagescalemode": 0,
+    "imagewhiledownloading": "loadingimage.png",
+    "info": null,
+    "invokedProperty": "imageWhileDownloading",
+    "isSegmentChild": true,
+    "isvisible": true,
+    "kuid": "ea71d58567584fbda8aceeca19d1dc9b",
+    "name": "kony.ui.Image2",
+    "parent": "FBox0f116278cf13840",
+    "pf": "FBox0f116278cf13840",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

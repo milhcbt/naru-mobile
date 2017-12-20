@@ -1,0 +1,65 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "75%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s2b674819c1147c1b2c7739548867a57",
+    "_top_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "lblTitik2",
+        "CopyFlexContainer0f8e0df53f1da4d",
+        "CopyFlexContainer0d02ef91574634f",
+        "CopyFlexContainer0a91aebe392ab49",
+        "CopyFlexContainer0b407de5c3f2c40",
+        "CopyFlexContainer0icf6f8ef72f246",
+        "CopyFlexContainer0da2e31b4ef4b4b",
+        "lblUpdate2"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "CopyFlexContainer0gdfc5a8a1c724a",
+    "info": null,
+    "isvisible": true,
+    "kuid": "c9b7521a56024ab69c8c88ebccd57dc3",
+    "layouttype": 2,
+    "masterType": 1,
+    "name": "kony.ui.FlexContainer",
+    "parent": "FlexScrollContainer0df9f9209ba4845",
+    "pf": "flxNewsEvent",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

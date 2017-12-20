@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_e9cbc4bb5bbe4313af8a8cc7c9f08f91": {
+        "id": "AS_FlexContainer_e9cbc4bb5bbe4313af8a8cc7c9f08f91",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPantauPage",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ac7fe80c38284433afb5232c620af58a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__hb4448c976ed45ae9913b0ed92745477",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "klikCamp();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

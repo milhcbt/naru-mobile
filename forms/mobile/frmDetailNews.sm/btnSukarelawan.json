@@ -1,0 +1,55 @@
+{
+    "DNDConfig": null,
+    "__markedForDelete__": true,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "4%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s6a13c10ddad487395c043b081830193",
+    "_width_": {
+        "type": "string",
+        "value": "47.50%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "Label0ffce2e3b7d8d44"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "btnSukarelawan",
+    "ide_onClick": "AS_FlexContainer_b3dffb3d4c924776911582e143d743ae",
+    "info": null,
+    "isvisible": true,
+    "kuid": "c76fdf7906f9420a82c93de3522ec471",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxControl",
+    "pf": "frmDetailNews",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

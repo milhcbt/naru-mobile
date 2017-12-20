@@ -1,0 +1,25 @@
+{
+    "AS_Form_h3687ccab6424af4ad27e9aefe887399": {
+        "id": "AS_Form_h3687ccab6424af4ad27e9aefe887399",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmSukarelawan_postShow",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSukarelawan",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d0a75f8af1ad453d8d37ec52645a1214"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__aeceb72751174647866ab6f4b87ea708",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "sukarelawanPostShow();\ninisiasiFormSukarelawan();\nuncheckSkSuka()",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

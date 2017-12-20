@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__markedForDelete__": true,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s969e2610de14856adedf1769808cd2b",
+    "_text_": "-",
+    "_top_": {
+        "type": "string",
+        "value": "7dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "rtxDampak",
+    "info": null,
+    "isvisible": true,
+    "kuid": "gb55893c32e54f15b31d6d1e6081f614",
+    "name": "kony.ui.RichText",
+    "parent": "flxDampak",
+    "pf": "frmDetailNews",
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

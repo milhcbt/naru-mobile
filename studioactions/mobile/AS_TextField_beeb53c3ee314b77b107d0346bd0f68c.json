@@ -1,0 +1,27 @@
+{
+    "AS_TextField_beeb53c3ee314b77b107d0346bd0f68c": {
+        "id": "AS_TextField_beeb53c3ee314b77b107d0346bd0f68c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmListPromo",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a28efd8b521c477792556edbb9ab6169"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__d31b39284bb944998f23248b74dfe290",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "pencarianPromo();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

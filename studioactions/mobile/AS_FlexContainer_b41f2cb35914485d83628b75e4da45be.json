@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_b41f2cb35914485d83628b75e4da45be": {
+        "id": "AS_FlexContainer_b41f2cb35914485d83628b75e4da45be",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDetailPromo",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ecdf231ac8a146d785d978fb1fc24a15"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__da2a2fb3c3e241fd9b5a538adb12a690",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "gestureBrowserPromo();\nopenPromoPage();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

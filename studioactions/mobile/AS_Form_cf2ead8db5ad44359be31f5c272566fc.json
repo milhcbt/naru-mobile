@@ -1,0 +1,24 @@
+{
+    "AS_Form_cf2ead8db5ad44359be31f5c272566fc": {
+        "id": "AS_Form_cf2ead8db5ad44359be31f5c272566fc",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSK",
+            "type": "forms",
+            "platform": "",
+            "KUID": "aa93b5f7807a489ab668353b4a325aaf"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__b207fb7d410342d2801127c4b7964edc",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "SKRelawan();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

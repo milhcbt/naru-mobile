@@ -1,0 +1,64 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_bottom_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "96%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0.60%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sd1cdc45917b4c17b78c11f3254dbf40",
+    "_src_": "imagedrag.png",
+    "_top_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "37%"
+    },
+    "canUpdateUI": true,
+    "containerId": true,
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "CopyFBox0h59ce7dd3c074b",
+        "templateType": "segments",
+        "topLevelBox": null
+    },
+    "id": "newsImage",
+    "imagescalemode": 0,
+    "imagewhiledownloading": "loadingpage.png",
+    "info": null,
+    "invokedProperty": "imageWhileDownloading",
+    "isSegmentChild": true,
+    "isvisible": true,
+    "kuid": "g99eb1c57429427c88221124e8695b12",
+    "name": "kony.ui.Image2",
+    "parent": "CopyFBox0h59ce7dd3c074b",
+    "pf": "CopyFBox0h59ce7dd3c074b",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

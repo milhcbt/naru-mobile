@@ -1,0 +1,24 @@
+{
+    "AS_Form_b0e24ccddf9541d4bf782715d44ecf38": {
+        "id": "AS_Form_b0e24ccddf9541d4bf782715d44ecf38",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDonasi",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c76b443ebf7d4b20a2c44aa2e67467cf"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__i2875d7b3d994f28b2b0681338d4c7f4",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "// initBrowserCC();\ngetListInstansi();\ngetNewsTitle();\ngetNamaTragedi();\ninisiasiForm();\nuncheckedSK();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

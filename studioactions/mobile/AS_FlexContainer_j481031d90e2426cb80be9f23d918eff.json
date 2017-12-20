@@ -1,0 +1,17 @@
+{
+    "AS_FlexContainer_j481031d90e2426cb80be9f23d918eff": {
+        "id": "AS_FlexContainer_j481031d90e2426cb80be9f23d918eff",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_ad6d7c87e304479aa3bb347596d647ba",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "gestureBrowserPromo();\nopenPromoPage();",
+            "callbackType": null
+        }]
+    }
+}

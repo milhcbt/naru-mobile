@@ -1,0 +1,29 @@
+{
+    "AS_Image_bd044a2624704446b3fcca970214a7ac": {
+        "id": "AS_Image_bd044a2624704446b3fcca970214a7ac",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "uwu2e40977fd534d6e958e3e0b154b7903",
+            "type": "userwidgets",
+            "KUID": "u2e40977fd534d6e958e3e0b154b7903"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__bb60dc045dd146abb2a8da3094bd7cfc",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.imgPantauFocus();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

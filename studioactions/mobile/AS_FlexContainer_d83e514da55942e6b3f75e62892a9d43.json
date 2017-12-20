@@ -1,0 +1,17 @@
+{
+    "AS_FlexContainer_d83e514da55942e6b3f75e62892a9d43": {
+        "id": "AS_FlexContainer_d83e514da55942e6b3f75e62892a9d43",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_e656f406801c41d99eaef506cfdef382",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "shareTwitterPromo(globePromoTitle);",
+            "callbackType": null
+        }]
+    }
+}

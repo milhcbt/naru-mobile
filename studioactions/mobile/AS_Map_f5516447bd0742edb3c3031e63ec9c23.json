@@ -1,0 +1,17 @@
+{
+    "AS_Map_f5516447bd0742edb3c3031e63ec9c23": {
+        "id": "AS_Map_f5516447bd0742edb3c3031e63ec9c23",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onMapLoaded_gb6c371443c54d0090ac9cf6f7fb0ca8",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "cekPosko();",
+            "callbackType": null
+        }]
+    }
+}
